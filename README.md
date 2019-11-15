@@ -1,6 +1,12 @@
 # call-wdsl-bahasa.ui.ac.id
 
 This file to use wdsl from bahasa.ui.ac.id
+you must have zeep library in python
+
+```bash
+pip install zeep
+```
+
 
 how to using
 
